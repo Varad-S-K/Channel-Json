@@ -2109,9 +2109,9 @@
         "name": "Zee Kannada",
         "id": "689",
         "category": "Kannada",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKannada_MOB/WDVLive/index.mpd",
-        "keyId": "81315ac468145b019e76354c5f5279cd",
-        "key": "3d19a7a524ae116254df1ac49714c1ad",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd",
+        "keyId": "50e714b65ead453cbfab9b20bed5c79d",
+        "key": "bc08e108b9ee4f65b99cb9dad9532f3f",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannada.png"
     },
     {
@@ -5007,9 +5007,9 @@
         "name": "Zee Kannada HD",
         "id": "1362",
         "category": "Kannada",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKannadaHD_MOB/WDVLive/index.mpd",
-        "keyId": "6f5a4223fa61543d9b9e173fadd7e044",
-        "key": "c9adddf1dcd497ff85fb9283ecc8ca30",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd",
+        "keyId": "50e714b65ead453cbfab9b20bed5c79d",
+        "key": "bc08e108b9ee4f65b99cb9dad9532f3f",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannadaHD.png"
     },
     {
