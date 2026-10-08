@@ -705,9 +705,9 @@
         "name": "Anmol TV",
         "id": "473",
         "category": "Entertainment",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd",
-        "keyId": "dc1c10d157cd56d5a7feaf6540578860",
-        "key": "227a41f602baeac002e6cdc46c000e19",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd",
+        "keyId": "4023613457774cbeb71a62c339970e63",
+        "key": "1c3e9fce5f014542be9cd1f749181204",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png"
     },
     {
@@ -1407,9 +1407,9 @@
         "name": "Zing",
         "id": "585",
         "category": "Music",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZing_MOB/WDVLive/index.mpd",
-        "keyId": "648632d8a99d59ef86fd651405ffb587",
-        "key": "027c47023b8eb258db20ac6ae7ba46a8",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd",
+        "keyId": "f0fb14eebe474a6ab74c8301d55a7224",
+        "key": "f9f8b2e30704458b8db844a285ce32be",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZing.png"
     },
     {
