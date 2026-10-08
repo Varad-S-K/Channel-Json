@@ -84,9 +84,9 @@
         "name": "Zee TV HD",
         "id": "167",
         "category": "Entertainment",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd",
-        "keyId": "a23b609b33e254a48e4fc6fa7af0fd8d",
-        "key": "4064c52328bfe9e6008776b48a431e4b",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
+        "keyId": "65c3633157574361b191059e46e72968",
+        "key": "78450b11381340c297d96c13183d3744",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png"
     },
     {
