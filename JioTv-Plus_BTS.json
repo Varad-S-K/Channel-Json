@@ -421,11 +421,7 @@
     "category": "Entertainment",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd",
     "clearKeys": {
-      "a6554e9064dc319b711045efc9843b2a": "6ce6d03ea08f516280019fbb8309e59a",
-      "707374016ec32b3f0af837fd44a9134a": "4f529dfcf54853199a8c09b3d6abd8f6",
-      "f11519f21378528ba43ae95eb7955642": "bb74366c78f2d7879865f15c5c5590b4",
-      "84e3927ad01087f676a4420de0899a75": "f26ce7e80a89919a04f3593c3ee19c82",
-      "0f28e9eacbd24515b3f2c4c48a6ac031": "427c3bd9520b3501f19498346736d5b8"
+      "f11519f21378528ba43ae95eb7955642":"bb74366c78f2d7879865f15c5c5590b4"
     }
   },
   {
@@ -932,7 +928,8 @@
     "category": "Entertainment",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/WDVLive/index.mpd",
     "clearKeys": {
-      "951fda0637ef58608a0cc62a31c7f594": "59bcb68bb58d93ae568879b8ef4185a2"
+      "968b1f2cd1b65bd59b0b2e32b2c4b832":"8603b6e24335e45a08896fb1a55bf255",
+      "63740a1a0a495979b871cddf1bda3e70":"499233dfcfe6c1b840d28590042c1591"
     }
   },
   {
@@ -942,7 +939,9 @@
     "category": "Entertainment",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/WDVLive/index.mpd",
     "clearKeys": {
-      "0449d593e6bb5a81a7ab5c5986e5940b": "c0abc7e159389031e53a4b8dfa53d141"
+      "7d7a754c2d5756328cf9bb03b93bf946": "5e2eb51889cf8e326f04abf24757205e",
+      "2a19442cb6a65a0d9547b7a887029334":"78f4db938c5873b14dffa721a6b979c5"
+"
     }
   },
   {
@@ -9309,7 +9308,8 @@
     "category": "Movies",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Max_HD_BTS/WDVLive/index.mpd",
     "clearKeys": {
-      "fe8b5e6e0a275d7fbfeb27abf9b75c0b": "c27da65de4d17976409daed680b1e9a1"
+      "fe8b5e6e0a275d7fbfeb27abf9b75c0b":"c27da65de4d17976409daed680b1e9a1",
+      "e13c20f12c8b558aa3b788bd44df27f9":"9d68a32038ab6b51394116266b65f5a6"
     }
   },
   {
@@ -9364,7 +9364,8 @@
     "category": "Movies",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_MAX2_BTS/WDVLive/index.mpd",
     "clearKeys": {
-      "1752d0d071595248b4b6f9f12be72905": "b5ce3a8fbe603561190c6f8fcbb34c55"
+      "1752d0d071595248b4b6f9f12be72905":"b5ce3a8fbe603561190c6f8fcbb34c55",
+      "41136b24f8675706b838e1b9512405bb":"ee31a30b756fbac15aa128f54489e55e"
     }
   },
   {
@@ -12729,12 +12730,9 @@
     "category": "Movies",
     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/output/index.mpd",
     "clearKeys": {
-      "42c65049c5e87adfba7095b93d5051e9": "7629946dbe6ff7558d342142ecb1faf6",
-      "36bdd3db2fb072b14118834fefe8ba5d": "024995458cf77e0c7fbd898b3f184902",
-      "7d1893ecbbef5872a37dfadbbc304bb9": "dcbcecbf01a838c3336d732a40296efb",
-      "bad9b61ac4eb5167a776e4a2c72f8060": "5031a436bb41299b0be42e7dbce58926",
-      "2a1a2b85777a564ba74e8f38ab063def": "695f02cdce09b8e5aa7ab9fdeb596bbe",
-      "476a98edc7ddd74fd82e036af00e7578": "ae18d19be09ff2bb9ad9f525d3affdcd"
+      "13f0ed7aadc1519ab5cf50575ef487ef":"46f4d9ff75af1d2a2465619a2e4187f3",
+      "0a15aac5e4165585a93926128f0e4794":"2cb0a0e09ac2eb013f1cbdef79634121
+"
     }
   },
   {
