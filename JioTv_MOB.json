@@ -84,9 +84,9 @@
         "name": "Zee TV HD",
         "id": "167",
         "category": "Entertainment",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
-        "keyId": "65c3633157574361b191059e46e72968",
-        "key": "78450b11381340c297d96c13183d3744",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd",
+        "keyId": "25593db61d0f4adc874d9098c27ab76c",
+        "key": "d924d43032123df18119a89c4da2da6a",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png"
     },
     {
@@ -516,9 +516,9 @@
         "name": "Zee Yuva",
         "id": "414",
         "category": "Marathi",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeYuva_MOB/WDVLive/index.mpd",
-        "keyId": "d48e6651418f51e89ae6cf9d5ce11b98",
-        "key": "f3333c49b77751c4cdc874908ebe7c31",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_YUVA/dash/ZEE_YUVA.mpd",
+        "keyId": "cf7e797fa31e4de6843468a7f410b462",
+        "key": "cc590383e85452f5566f494ea7d28d57",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeYuva.png"
     },
     {
@@ -912,7 +912,7 @@
         "name": "Zee News",
         "id": "504",
         "category": "News",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_News_MOB/WDVLive/index.mpd",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_News/hls_fta/Zee_News.m3u8",
         "keyId": "null",
         "key": "null",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png"
@@ -4980,9 +4980,9 @@
         "name": "Zee Talkies HD",
         "id": "1358",
         "category": "Marathi",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd",
-        "keyId": "0e370273ac0f521c8ee529a886f2dc06",
-        "key": "c2bc9f42751680a68c006986fbf2f039",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd",
+        "keyId": "6ac899259786409585728529e4f2c645",
+        "key": "b3c8b8bd68bdaf2a693c9cd04672fff5",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png"
     },
     {
@@ -6060,9 +6060,9 @@
         "name": "Zee Power HD",
         "id": "1746",
         "category": "Kannada",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeePowerHD_MOB/WDVLive/index.mpd",
-        "keyId": "3bfd5c68d9bf5e4692074b423d636db8",
-        "key": "72987aa584fd5c029de3d46033f42595",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Power_SD/dash/Zee_Power_SD.mpd",
+        "keyId": "8ad26701393144479c6b41d8b04204db",
+        "key": "bef5a1b08f25e9c29d58d0f937490c42",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeePowerHD.png"
     },
     {
