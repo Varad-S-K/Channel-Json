@@ -419,7 +419,7 @@
     "name": "Sony Entertainment Television HD",
     "logo": "https://img.media.jio.com/imagespublic/40/88/300266_1666878589057_p_medium.jpg",
     "category": "Entertainment",
-    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd",
+    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SETHDSTB_BTS/WDVLive/index.mpd",
     "clearKeys": {
       "f11519f21378528ba43ae95eb7955642":"bb74366c78f2d7879865f15c5c5590b4"
     }
