@@ -66,9 +66,9 @@
         "name": "Zee Cinema HD",
         "id": "165",
         "category": "Movies",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
-        "keyId": "f56beaac9f124616872c741c9ce4fa4e",
-        "key": "5d40a903238f4ad98abbed1877d4e3d1",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd",
+        "keyId": "7e44c7953b7a4420b179389d53f32a5c",
+        "key": "f037bc2af7d86a5716240be66e13aea2",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png"
     },
     {
@@ -147,9 +147,9 @@
         "name": "And Pictures HD",
         "id": "185",
         "category": "Movies",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
-        "keyId": "de8045e9f0fb4d03845dcc4a8bd7712a",
-        "key": "6807bd09bda34ada83152908192af6d6",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd",
+        "keyId": "b2795275863a4a71a383513ad4f354f8",
+        "key": "e495e205ac8856240c717b1a90d149cb",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png"
     },
     {
@@ -525,9 +525,9 @@
         "name": "Zee Anmol Cinema",
         "id": "415",
         "category": "Movies",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
-        "keyId": "812411cba8bc42c79eb2b19cd78ad3f3",
-        "key": "468a0b8d3d5d42d8a5c41bb875390a74",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd",
+        "keyId": "b3ebfe37af6f4fe18bd49dda0fd6ee32",
+        "key": "b2fe842d00561eb43f724f7d3ff5eec6",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png"
     },
     {
@@ -579,7 +579,7 @@
         "name": "9X Jalwa",
         "id": "440",
         "category": "Music",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/9X_Jalwa/hls_fta/9X_Jalwa.m3u8",
         "keyId": "null",
         "key": "null",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9XJalwa.png"
@@ -588,7 +588,7 @@
         "name": "9x Jhakaas",
         "id": "441",
         "category": "Marathi",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/9xjhakaas/HLSPartner/index.m3u8",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/9X_Jhakaas/hls_fta/9X_Jhakaas.m3u8",
         "keyId": "null",
         "key": "null",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png"
@@ -696,9 +696,9 @@
         "name": "And TV HD",
         "id": "472",
         "category": "Entertainment",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd",
-        "keyId": "88295124db295a6b9f5027dc6049e294",
-        "key": "641c40230a95cb76d1949125f9552fda",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd",
+        "keyId": "8f355deb0d0b4f2eac3702e5a9a2e70d",
+        "key": "29ca97c3bb180a5976adbbdb787dc95b",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png"
     },
     {
@@ -777,18 +777,18 @@
         "name": "Zee Bollywood",
         "id": "487",
         "category": "Movies",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd",
-        "keyId": "e61523260c614746b25b9a5523fe9a39",
-        "key": "72ddbf37f76f49acbb8e140e7279e7a1",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd",
+        "keyId": "5f03fbfd96a44477b9ac9b44018d5704",
+        "key": "3e8b262654d09328e1ed593a8b337e1f",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png"
     },
     {
         "name": "Zee Action",
         "id": "488",
         "category": "Movies",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAction_MOB/WDVLive/index.mpd",
-        "keyId": "80e87d88c856547a917ed83f62656cd7",
-        "key": "c68fcd4330e5f188793df509bb5e19a6",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd",
+        "keyId": "f7cdfa094f8b481fa7cec5a818e8e8ae",
+        "key": "b6a2caa41fbde20b3032584ea7762e46",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png"
     },
     {
@@ -2433,7 +2433,7 @@
         "name": "9X Tashan",
         "id": "732",
         "category": "Punjabi",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/9xTashan/HLSPartner/index.m3u8",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8",
         "keyId": "null",
         "key": "null",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9xTashan.png"
@@ -4989,36 +4989,36 @@
         "name": "Big Magic",
         "id": "1359",
         "category": "Entertainment",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/BigMagic_MOB/WDVLive/index.mpd",
-        "keyId": "ec8cb7b1b9505fea9ff1015b45991f93",
-        "key": "03fe78d2402fe22a47eb55f2cce8a85b",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd",
+        "keyId": "fe84ae425b2e4bb9a880a04c80bfd585",
+        "key": "73ad133cc8892621a0af863612a1db57",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png"
     },
     {
         "name": "Zee Marathi HD",
         "id": "1360",
         "category": "Marathi",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd",
-        "keyId": "2a8d6c938ea647248f7a10eedc39f097",
-        "key": "7d81feb84ed84bd88fdc5ca9de3c16da",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd",
+        "keyId": "e601c056516f4fe8a05797624c915836",
+        "key": "d4190273c41f35e980a1d4ed092533c0",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png"
     },
     {
         "name": "Zee Kannada HD",
         "id": "1362",
         "category": "Kannada",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd",
-        "keyId": "50e714b65ead453cbfab9b20bed5c79d",
-        "key": "bc08e108b9ee4f65b99cb9dad9532f3f",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd",
+        "keyId": "c16aeff045fc44aeb8aa0f23dc034de5",
+        "key": "47be39e2633bc49081d4f8cef4f79ec0",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannadaHD.png"
     },
     {
         "name": "Zee Cinemalu HD",
         "id": "1363",
         "category": "Telugu",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_MOB/WDVLive/index.mpd",
-        "keyId": "3fa59e199f7352d69e194a23525b5ec2",
-        "key": "bd1eaea91897258b3068bb81f1c9011c",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd",
+        "keyId": "4fbc809efde3413d977f3c972235289f",
+        "key": "6603b3c618fa88579dbce453594b9d9a",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png"
     },
     {
@@ -5925,9 +5925,9 @@
         "name": "Zee Classic",
         "id": "1691",
         "category": "Movies",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeClassicSD_MOB/WDVLive/index.mpd",
-        "keyId": "2aea84bae39054cbbc86ace8a08bac37",
-        "key": "146d2414142edb746f82d71459274d39",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd",
+        "keyId": "a7808261fd184470811146b5cda2f6ff",
+        "key": "c7df7ebcaab021412244374f9930a0cc",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png"
     },
     {
@@ -7329,9 +7329,9 @@
         "name": "Zee Anmol Cinema 2",
         "id": "2761",
         "category": "Movies",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_MOB/WDVLive/index.mpd",
-        "keyId": "521f555c43e25d75a2a532a35358cee6",
-        "key": "8822f0168bbf58fb70f4171c92ad61bb",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd",
+        "keyId": "bf07453bd9274952875e1b3de536767a",
+        "key": "b523d793807a2b168c333b04b288d1a2",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png"
     },
     {
